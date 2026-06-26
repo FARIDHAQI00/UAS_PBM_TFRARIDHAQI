@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SehatYuk</string>
+    <string name="title">Aplikasi Cek Kesehatan\nSehatYuk</string>
+    <string name="hint_nama">Nama</string>
+    <string name="hint_berat">Berat Badan (kg)</string>
+    <string name="hint_tinggi">Tinggi Badan (cm)</string>
+    <string name="hint_umur">Umur (tahun)</string>
+    <string name="btn_bmi">Hitung BMI</string>
+    <string name="btn_bmr">Hitung BMR</string>
+    <string name="hasil_default">Hasil perhitungan akan tampil di sini.</string>
+    <string name="error_kosong">Mohon lengkapi semua kolom input!</string>
+    <string name="error_tinggi">Tinggi badan harus lebih dari 0.</string>
+</resources>
