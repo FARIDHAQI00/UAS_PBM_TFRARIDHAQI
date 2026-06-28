@@ -82,11 +82,6 @@ Uji anti-crash: kosongkan salah satu kolom lalu tekan tombol → muncul peringat
 
 ## 5. Pengumpulan
 
-1. Di Android Studio: **Build → Clean Project** (opsional) lalu **hapus folder `build/`**
-   (root `build/` dan `app/build/`) untuk memperkecil ukuran.
-2. Kompres folder `SehatYuk` menjadi `.zip`, **atau** push ke GitHub.
-3. Beri nama berkas:
-   **`NIM_NamaLengkap_TugasMobileFunction.zip`**
-   (ganti `NIM` dan `NamaLengkap` dengan data kamu).
-4. Jangan lupa lampirkan **link YouTube** video penjelasan
-   (lihat `PANDUAN_VIDEO.md`).
+1. Link GitHub : https://github.com/FARIDHAQI00/UAS_PBM_TFRARIDHAQI.git
+
+2. Link YouTube Presentasi : https://youtu.be/m9yGTBx8-EM
